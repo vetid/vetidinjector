@@ -1,4 +1,4 @@
-# 🔮 Vetid Injector ![](https://img.shields.io/badge/CSGO-WINDOWS-green)
+# 💉 Vetid Injector ![](https://img.shields.io/badge/CSGO-WINDOWS-green)
 
 # Download / Latest Release:
 * 09/07/2020 / https://github.com/vetid/vetidinjector/releases
